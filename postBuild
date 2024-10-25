@@ -1,2 +1,5 @@
-postBuildwget -q -O gapminder.csv http://bit.ly/2uh4s3g
-requirements.txtpandasmatplotlib
+
+wget http://example.com/resource
+
+pip install -r requirements.txt
+
